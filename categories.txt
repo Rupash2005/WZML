@@ -1,0 +1,6 @@
+Torrent 1GYjeOjRuKaoL_cMcrJwmLZShBxPQtMYv https://rubyplex.online/0:/Torrent
+REMUX 1mEOhA2fp5ltwNWxFS4mpIXHRyS1ynbiD https://rubyplex.online/0:/Plex/Remux
+SERIES 1VhNBH9YPLnhsEsGPnJ2c7GH8ZqjZEMOV https://rubyplex.online/0:/Plex/Series
+HDor4K 1BCcbIPOshQUvBBW6EqpEpPcbz4l61YKp https://rubyplex.online/0:/Plex/1080P%20+%204K
+GAMES 11JFsaYq-hkq0s3xi6INX9Qhk4OxE4_TQ https://rubyplex.online/0:/Games
+HDR 15RFMAxunIIqqn8p_wn8jUPgWJy1i-wnK https://rubyplex.online/0:/Plex/HDR%20&%20HDR10+%20
